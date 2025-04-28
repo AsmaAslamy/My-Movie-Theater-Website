@@ -1,0 +1,81 @@
+body{
+    background-color: #FCFAEE;
+}
+#span{
+    color: #A5B68D;
+}
+video{
+    height: 385px;
+    width: 830px;
+    margin: 50px 0 0 220px;
+    border: solid  20px #ecdfcc8c;
+}
+h1{
+    /* margin-top: ;
+    margin-bottom: ;
+    margin-left: ;
+    margin-right: ; */
+    margin: 10px 0 0 200px ;
+}
+#p{
+    background-color: #FFEAC5;
+    width: 400px;
+    height: 50px;
+    color: #DA8359;
+    margin: 10px 0 0 460px;
+    display: inline-block;
+    border: solid 10px #da845969;
+}
+p{
+    margin: 15px 0 0 15px;
+    text-decoration:solid ;
+   
+}
+#p:hover{
+    background-color: #A5B68D;
+    color: #FFDBB5;
+    border: solid 20px #ffeac577;
+    margin: 10px 0 0 455px;
+}
+p> b {
+    color: black;
+}
+img{
+    height: 385px;
+    width: 830px;
+    margin: 50px 0 0 220px;
+    border: solid  20px rgba(0, 0, 0, 0.151)
+}
+#pa{
+    background-color: #FFEAC5;
+    width: 400px;
+    height: 50px;
+    color: #DA8359;
+    margin: 10px 0 0 460px;
+    display: inline-block;
+    border: solid 10px #da845969;
+}
+#pa:hover{
+    background-color: #A5B68D;
+    color: #FFDBB5;
+    border: solid 20px #ffeac577;
+    margin: 10px 0 0 455px;
+}
+.Smbmit{
+    width: 150px;
+    height: 70px;
+    background-color: #A5B68D;
+    color: #FFEAC5;
+}
+.Smbmit> form> input{
+    margin: 0 0 0 45px;
+}
+.Smbmit> form> input:hover{
+    color: #DA8359;
+    background-color: #FFDBB5;
+}
+
+.Smbmit> h2:hover{
+    color: #DA8359;
+    background-color: #FFDBB5;
+}
